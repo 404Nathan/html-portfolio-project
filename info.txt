@@ -1,0 +1,9 @@
+Date: 15-01-2024
+Course: The Complete 2024 Web Development Bootcamp
+Section: Section 4: Multi-Page Websites
+Languages & Tools: HTML
+Frameworks: none
+Libraries: none
+Difficulty:Basic
+Teacher: Angela Yu
+Type: [ ] code along  [x] challenge  [ ] my own
